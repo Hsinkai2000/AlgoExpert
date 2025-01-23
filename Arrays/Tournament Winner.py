@@ -2,8 +2,6 @@ from collections import defaultdict
 
 
 def tournamentWinner(competitions, results):
-    # Write your code here.
-
     map = defaultdict(int)
 
     for i in range(len(competitions)):
