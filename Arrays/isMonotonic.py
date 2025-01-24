@@ -1,5 +1,5 @@
 def isMonotonic(array):
-    if len(array) == 0 or len(array) == 1:
+    if len(array) <= 2:
         return True
 
     state = 'up'
