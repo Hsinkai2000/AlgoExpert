@@ -84,3 +84,9 @@ If you have suggestions or would like to contribute by providing alternative sol
 Fork the repository.
 Create a new branch for your feature/solution.
 Submit a pull request with a clear description of your changes.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
